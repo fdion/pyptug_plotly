@@ -1,0 +1,11 @@
+cufflinks
+dash
+dash-core-components
+dash-html-components
+dash-renderer
+Flask
+matplotlib
+numpy
+pandas
+pandas-datareader
+plotly
