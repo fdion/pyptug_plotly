@@ -28,6 +28,8 @@ data science books including [part V](https://www.linkedin.com/pulse/ex-libris-d
 
 ## Requirements
 
+Everything here assumes **python 3**. Python 2 is untested.
+
 **notebooks** require jupyter notebook to be installed. They also require _matplotlib_, _numpy_, _pandas_, 
 _plotly_ and _cufflinks_.
 
@@ -38,9 +40,6 @@ To install all of these:
 ```bash
 pip install -r requirements.txt
 ```
-
-
-
 
 ## Code
 
@@ -73,6 +72,18 @@ pip install -r requirements.txt
 └── README.md
 ```
 
+## Running
+
+For the notebooks, simply launch jupyter notebook from this folder, go into the notebooks folder and open them.
+
+For the web apps, execute:
+
+```bash
+python app.py
+```
+
+Replace app.py with each file (ie. dash_01.py). Direct your browser to http://localhost:8050 for Dash apps
+and to http://localhost:5000 for Flask apps.
 
 ## Gapminder Revisited
 
