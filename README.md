@@ -127,3 +127,5 @@ A few links shared during the presentation:
  - [cufflinks](https://github.com/mwaskom/seaborn)
  - [plotly](http://plot.ly)
  - [Napoleon's March on Moscow, plotly style](https://plot.ly/~Dreamshot/393/napoleons-march-to-moscow-the-war-of-1812-map-representing-the-losses-over-time-/#plot)
+
+See also my LinkedIn article: [There are humans behind those stats](https://www.linkedin.com/pulse/humans-behind-those-stats-francois-dion)
